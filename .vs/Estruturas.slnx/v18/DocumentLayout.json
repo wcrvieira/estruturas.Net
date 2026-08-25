@@ -35,14 +35,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Principal.cs [Projeto]",
+              "Title": "Principal.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Wagner\\Desktop\\estruturas.Net\\Estruturas\\Principal.cs",
               "RelativeDocumentMoniker": "Estruturas\\Principal.cs",
-              "ToolTip": "C:\\Users\\Wagner\\Desktop\\estruturas.Net\\Estruturas\\Principal.cs [Projeto]",
-              "RelativeToolTip": "Estruturas\\Principal.cs [Projeto]",
+              "ToolTip": "C:\\Users\\Wagner\\Desktop\\estruturas.Net\\Estruturas\\Principal.cs [Design]",
+              "RelativeToolTip": "Estruturas\\Principal.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-18T11:44:45.042Z",
-              "EditorCaption": " [Projeto]"
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -52,7 +52,7 @@
               "RelativeDocumentMoniker": "Estruturas\\Principal.cs",
               "ToolTip": "C:\\Users\\Wagner\\Desktop\\estruturas.Net\\Estruturas\\Principal.cs",
               "RelativeToolTip": "Estruturas\\Principal.cs",
-              "ViewState": "AgIAAHsAAAAAAAAAAADwv4MAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwGMAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-14T23:03:28.741Z",
               "EditorCaption": ""
@@ -80,8 +80,7 @@
               "RelativeToolTip": "Estruturas\\Principal.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T23:04:10.088Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-14T23:04:10.088Z"
             },
             {
               "$type": "Document",

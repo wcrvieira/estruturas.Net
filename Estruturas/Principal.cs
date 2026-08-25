@@ -44,11 +44,11 @@ namespace Estruturas
 
         private void btnWhile_Click(object sender, EventArgs e)
         {
-            int cont = 5;
+            int cont = 100;
             lsbMostra.Items.Clear();
             double fatorial = 1;
 
-            while (cont <= 5 & cont >= 1)
+            while (cont <= 100 & cont >= 1)
             {
                 fatorial *= cont;
                 cont--;
@@ -67,7 +67,7 @@ namespace Estruturas
                 lsbMostra.Items.Add((num * num).ToString());
                 num++;
             }
-            while (num <= 5);
+            while (num <= 100);
         }
 
         private void btnFor_Click(object sender, EventArgs e)
@@ -75,7 +75,7 @@ namespace Estruturas
             int maisvc = 0;
             lsbMostra.Items.Clear();
 
-            for (maisvc = 1; maisvc <= 25000; maisvc *= 5)
+            for (maisvc = 1; maisvc <= 1000000; maisvc *= 5)
             {
                 lsbMostra.Items.Add(maisvc.ToString());
             }
@@ -86,16 +86,20 @@ namespace Estruturas
             // Array ou vetor é uma estrutura de dados que armazena
             // valores que podem ser acessados por uma posição
             // frutas[0] = "Maça", frutas[1] = "Mamão",.....
-            string[] frutas = ["Maça", "Mamão", "Abacaxi", "Limão"];
+            int []numeros = { 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144 };
+            string[] nomes = {"João", "Maria"};
 
             lsbMostra.Items.Clear();
-            // lsbMostra.Items.Add(frutas[0]);
-            // lsbMostra.Items.Add(frutas[1]);
-
-            foreach (string coisas in frutas)
+            foreach (int num in numeros)
             {
-                lsbMostra.Items.Add(coisas);
+                lsbMostra.Items.Add(num);
             }
+
+            foreach (string nome in nomes)
+            {
+                lsbMostra.Items.Add(nome);
+            }
+
         }
 
         private void btnBreak_Click(object sender, EventArgs e)
