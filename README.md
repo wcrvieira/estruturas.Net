@@ -20,8 +20,6 @@ Escolha uma das opções, abaixo, e implemente na interface principal do projeto
 
 # Repositório GitHub para estudos: https://github.com/wcrvieira/estruturas.Net 
 
-Após a implementação dos processos, suba os arquivos do projeto em seu repositório GitHub e, poste o link nesta atividade até às 20h00 do próximo dia 11/06/2026.
-
 Bons estudos.
 
 <img width="898" height="555" alt="image" src="https://github.com/user-attachments/assets/75c3fd8e-629f-4795-9887-7e1053f0cb83" />
